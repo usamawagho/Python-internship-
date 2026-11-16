@@ -1,0 +1,3 @@
+alex.morgan@example.com
+sarah_dev@company.org
+support@service.io
